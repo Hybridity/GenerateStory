@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ToyViewController.viewDidLoad() -&gt; ():ToyViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "videoURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FilterChain.rebuildChain(sourceOrigin : ImageSource) -&gt; ():Filterchain.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movieOutput">
+            </PersistentString>
+            <PersistentString
+               value = "renderView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

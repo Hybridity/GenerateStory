@@ -1,0 +1,10 @@
+framework module Filterchain {
+  umbrella header "Filterchain.h"
+
+  export *
+  module * { export * }
+}
+
+module Filterchain.Swift {
+    header "Filterchain-Swift.h"
+}
